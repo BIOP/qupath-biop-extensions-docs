@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ch.epfl.biop.qupath.commands"},{"l":"ch.epfl.biop.qupath.extensions"},{"l":"ch.epfl.biop.qupath.utils"}]
